@@ -1,0 +1,27 @@
+.welcome {
+    width: 100%;
+    max-width: 800px;
+}
+
+.welcome p {
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 24px;
+    margin: 0;
+}
+
+.welcome p:last-child {
+    margin-top: 66px;
+}
+
+.welcome__user {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 36px;
+    margin-bottom: 16px;
+}
+
+.welcome__description {
+    text-indent: 20px;
+    margin-top: 50px !important;
+}
