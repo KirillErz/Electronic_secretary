@@ -19,7 +19,7 @@ Run Svelte:
 ```sh
 $ cd frontend
 $ npm install
-$ npm run dev
+$ npm run start
 ```
 
-Test at [http://localhost:8080/](http://localhost:8080/)
+Test at [http://localhost:3000/](http://localhost:3000/)
